@@ -1,3 +1,5 @@
+# aim points computed in helper_functions/aim_points_helper.py
+
 aim_points = {
     'S6': (133.5, 0.0),
     'S13': (126.966, 41.254),
